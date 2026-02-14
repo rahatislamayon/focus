@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Focus</string>
+    <string name="accessibility_service_description">Focus requires this permission to detect when you open distracting apps during a focus session.</string>
+</resources>
