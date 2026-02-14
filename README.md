@@ -47,3 +47,8 @@ To function correctly, Focus requires the following permissions (requested on fi
 3.  Sync Gradle dependencies.
 4.  Run on an Android device or emulator (Android 8.0+ recommended).
 5.  Follow the in-app onboarding to grant permissions.
+
+
+![Screenshot_2026-02-14-19-51-41-476-edit_com study focus](https://github.com/user-attachments/assets/41c0eebc-90ed-49b1-b31e-529628d9982e)
+![Screenshot_2026-02-14-19-51-41-476-edit_com study focus](https://github.com/user-attachments/assets/5ae5b3c9-49df-4c1b-b59d-87ca3639e37c)
+
